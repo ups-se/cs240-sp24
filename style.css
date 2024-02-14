@@ -20,3 +20,12 @@ div {
     color: #0f3166;
 
 }
+
+.mhstephens p {
+    font-family: "Trebuchet MS";
+    color: #8866b2;
+    max-width: 25%;
+    padding: 5px;
+    margin: 5px;
+    
+}
