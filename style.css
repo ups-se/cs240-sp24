@@ -13,3 +13,10 @@ div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #0f3166;
 }
+
+.alter_ego p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+
+}
