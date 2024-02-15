@@ -20,3 +20,17 @@ div {
     color: #0f3166;
 
 }
+
+.anni_laberge img {
+    border: 3px deeppink solid;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    height: 25%;
+}
+
+.anni_laberge p {
+    max-width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deeppink;
+}
