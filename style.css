@@ -20,3 +20,16 @@ div {
     color: #0f3166;
 
 }
+
+.hannah_erikson img {
+    border: 5px #660f48 ridge;
+    padding: 5px;
+    margin: 10px;
+    width: 100px;
+}
+
+.hannah_erikson p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #660f48;
+}
