@@ -20,3 +20,15 @@ div {
     color: #0f3166;
 
 }
+
+.cian_monaghan img {
+    border: 3px #0f3166 solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.cian_monaghan p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
