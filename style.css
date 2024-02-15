@@ -20,3 +20,13 @@ div {
     color: #0f3166;
 
 }
+
+.alex_kirner img{
+    max-width:8%;
+}
+
+.alex_kirner p{
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
