@@ -43,3 +43,16 @@ div {
 .blandau > * {
     padding: 10px;
 }
+
+.branson_jones img {
+    border: 3px #0f3166 solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.branson_jones p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
+
