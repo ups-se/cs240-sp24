@@ -43,3 +43,25 @@ div {
 .blandau > * {
     padding: 10px;
 }
+
+.ben_heck{
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(60, 37, 116);
+}
+
+.ben_heck img{
+    padding: 10px;
+    margin: 10px;
+}
+
+.ben_heck{
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(60, 37, 116);
+}
+
+.ben_heck img{
+    padding: 10px;
+    margin: 10px;
+}
