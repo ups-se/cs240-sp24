@@ -20,3 +20,21 @@ div {
     color: #0f3166;
 
 }
+
+.jonah_kelsey {
+    background-color: rgb(48, 30, 151);
+    color: rgb(228, 132, 84);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+}
+
+.jonah_kelsey img {
+    width: 200px;
+    margin: 10px;
+    border: 5px rgb(228, 132, 84) solid;
+}
+
+.jonah_kelsey p {
+    max-width: 70%;
+    font-size: 20px;
+}
