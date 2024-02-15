@@ -109,3 +109,16 @@ div {
     padding: 10px;
     margin: 10px;
 }
+
+.kendall_parry {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(94, 2, 48);
+    max-width: 60%;
+}
+
+.kendall_parry img {
+    border: 3px rgb(94, 2, 48);
+    padding: 10px;
+    margin: 10px;
+}
+}
