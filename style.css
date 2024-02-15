@@ -30,3 +30,25 @@ div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #0f3166;
 }
+
+.matilda_lerner {
+    background: radial-gradient(lightpink, blueviolet);
+    font-family: "Apple Chancery";
+    color: white;
+    margin: auto;
+    text-shadow: 1px 1px blue;
+    border: 2px solid LightSlateGrey;
+}
+
+.matilda_lerner strong {
+    text-decoration: underline;
+}
+
+.matilda_lerner img {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.matilda_lerner a {
+    color: blue;
+}
