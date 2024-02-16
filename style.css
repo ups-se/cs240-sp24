@@ -123,3 +123,19 @@ div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #0f3166;
 }
+
+
+.julia_kaeppel {
+    background-color: rgb(11, 22, 11);
+    color: rgb(200, 25, 25);
+    font-family: Impact, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom, rgb(70, 20, 20), rgb(0, 0, 20) 100%);
+}
+
+.julia_kaeppel p {
+    padding: 10px;
+}
