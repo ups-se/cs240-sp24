@@ -21,6 +21,21 @@ div {
 
 }
 
+
+.anni_laberge img {
+    border: 3px deeppink solid;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    height: 25%;
+}
+
+.anni_laberge p {
+    max-width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deeppink;
+}
+
 .jonah_kelsey {
     background-color: rgb(48, 30, 151);
     color: rgb(228, 132, 84);
@@ -101,6 +116,16 @@ div {
     color: #0f3166;
 }
 
+.noah_mccullough p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
+
+.noah_mccullough img {
+    max-width:8%;
+}
+
 .ben_heck{
     max-width: 60%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -124,6 +149,7 @@ div {
     color: #0f3166;
 }
 
+<<<<<<< HEAD
 
 .julia_kaeppel {
     background-color: rgb(11, 22, 11);
@@ -139,3 +165,5 @@ div {
 .julia_kaeppel p {
     padding: 10px;
 }
+=======
+>>>>>>> 195dcd206b00916afbb935621ba7a64c1a03abd0
