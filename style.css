@@ -21,6 +21,21 @@ div {
 
 }
 
+
+.anni_laberge img {
+    border: 3px deeppink solid;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    height: 25%;
+}
+
+.anni_laberge p {
+    max-width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deeppink;
+}
+
 .jonah_kelsey {
     background-color: rgb(48, 30, 151);
     color: rgb(228, 132, 84);
@@ -78,13 +93,15 @@ div {
 .matilda_lerner a {
     color: blue;
 
+}
 
 .blandau > * {
     padding: 10px;
 }
 
-
-
+.lily_gustafson {
+    max-width: 50%;
+}
 
 .branson_jones img {
     border: 3px #0f3166 solid;
@@ -97,6 +114,16 @@ div {
     max-width: 60%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #0f3166;
+}
+
+.noah_mccullough p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
+
+.noah_mccullough img {
+    max-width:8%;
 }
 
 .ben_heck{
@@ -121,4 +148,79 @@ div {
     padding: 10px;
     margin: 10px;
 }
+
+.quynh-lan img {
+    border: 3px #0f3166 solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.quynh-lan p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
+
+
+.julia_kaeppel {
+    background-color: rgb(11, 22, 11);
+    color: rgb(200, 25, 25);
+    font-family: Impact, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom, rgb(70, 20, 20), rgb(0, 0, 20) 100%);
+}
+
+.julia_kaeppel p {
+    padding: 10px;
+}
+
+.hbbaker {
+    background-color: #071013;
+    color: #fff8f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.hbbaker p {
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+.hbbaker h1 {
+    font-size: 40px;
+    font-weight: 2000;
+}
+
+.hbbaker img {
+    border-radius: 10px;
+    border-style: double;
+    border-color: #071018;
+}
+
+.hbbaker hr {
+    width: 370px;
+    float: left;
+}
+
+.cpuapuaga p {
+    max-width: 70%;
+    font-size: 20px;
+    color: rgb(123, 28, 28)
+}
+
+.cpuapuaga img {
+    width: 200px;
+    margin: 10px;
+    border: 20px rgb(123, 28, 28) solid;
+    padding: 10px;
+
 }
