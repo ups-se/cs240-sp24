@@ -198,3 +198,16 @@ div {
     width: 370px;
     float: left;
 }
+
+.cpuapuaga p {
+    max-width: 70%;
+    font-size: 20px;
+    color: rgb(123, 28, 28)
+}
+
+.cpuapuaga img {
+    width: 200px;
+    margin: 10px;
+    border: 20px rgb(123, 28, 28) solid;
+    padding: 10px;
+}
