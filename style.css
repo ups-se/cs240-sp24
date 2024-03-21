@@ -21,6 +21,7 @@ div {
 
 }
 
+
 .hannah_erikson img {
     border: 5px #660f48 ridge;
     padding: 5px;
@@ -33,6 +34,56 @@ div {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #660f48;
 }
+.amandawissing img{
+    border: 3px #660f52 solid;
+    padding: 10px;
+    margin: 10px;  
+}
+
+.amandawissing p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #660f5d; 
+}
+
+.cian_monaghan img {
+    border: 3px #0f3166 solid;
+    padding: 10px;
+    margin: 10px;
+
+}
+.anni_laberge img {
+    border: 3px deeppink solid;
+    padding: 10px;
+    margin: 10px;
+    width: 25%;
+    height: 25%;
+}
+
+.anni_laberge p {
+    max-width: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: deeppink;
+}
+
+.jonah_kelsey {
+    background-color: rgb(48, 30, 151);
+    color: rgb(228, 132, 84);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+}
+
+.jonah_kelsey img {
+    width: 200px;
+    margin: 10px;
+    border: 5px rgb(228, 132, 84) solid;
+}
+
+.jonah_kelsey p {
+    max-width: 70%;
+    font-size: 20px;
+
+}
 
 .mhstephens p {
     font-family: "Trebuchet MS";
@@ -44,15 +95,166 @@ div {
 
 .alex_kirner img{
     max-width:8%;
+
 }
 
-.alex_kirner p{
+.cian_monaghan p {
     max-width: 60%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #0f3166;
+
+}
+
+.matilda_lerner {
+    background: radial-gradient(lightpink, blueviolet);
+    font-family: "Apple Chancery";
+    color: white;
+    margin: auto;
+    text-shadow: 1px 1px blue;
+    border: 2px solid LightSlateGrey;
+}
+
+.matilda_lerner strong {
+    text-decoration: underline;
+}
+
+.matilda_lerner img {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.matilda_lerner a {
+    color: blue;
+
 }
 
 .blandau > * {
     padding: 10px;
 }
 
+.lily_gustafson {
+    max-width: 50%;
+}
+
+.branson_jones img {
+    border: 3px #0f3166 solid;
+
+    padding: 10px;
+    margin: 10px;
+}
+
+.branson_jones p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
+
+.noah_mccullough p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
+
+.noah_mccullough img {
+    max-width:8%;
+}
+
+.ben_heck{
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(60, 37, 116);
+}
+
+.ben_heck img{
+    padding: 10px;
+    margin: 10px;
+}
+
+.kendall_parry {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(94, 2, 48);
+    max-width: 60%;
+}
+
+.kendall_parry img {
+    border: 3px rgb(94, 2, 48);
+    padding: 10px;
+    margin: 10px;
+}
+
+.quynh-lan img {
+    border: 3px #0f3166 solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.quynh-lan p {
+    max-width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f3166;
+}
+
+
+.julia_kaeppel {
+    background-color: rgb(11, 22, 11);
+    color: rgb(200, 25, 25);
+    font-family: Impact, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom, rgb(70, 20, 20), rgb(0, 0, 20) 100%);
+}
+
+.julia_kaeppel p {
+    padding: 10px;
+}
+
+.hbbaker {
+    background-color: #071013;
+    color: #fff8f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.hbbaker p {
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+.hbbaker h1 {
+    font-size: 40px;
+    font-weight: 2000;
+}
+
+.hbbaker img {
+    border-radius: 10px;
+    border-style: double;
+    border-color: #071018;
+}
+
+.hbbaker hr {
+    width: 370px;
+    float: left;
+}
+
+.cpuapuaga p {
+    max-width: 70%;
+    font-size: 20px;
+    color: rgb(123, 28, 28)
+}
+
+.cpuapuaga img {
+    width: 200px;
+    margin: 10px;
+    border: 20px rgb(123, 28, 28) solid;
+    padding: 10px;
+
+
+}
